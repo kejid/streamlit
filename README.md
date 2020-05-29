@@ -1,1 +1,1 @@
-# jupyter_streamlit
+# streamlit
